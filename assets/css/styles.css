@@ -1,0 +1,17 @@
+#primary-info,
+.btn {
+    background-image: linear-gradient(90deg, var(--bs-red), var(--bs-purple));
+}
+
+.btn {
+    border: none;
+    padding-inline: 24px;
+    border-radius: 0;
+}
+
+h1 {
+    color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(90deg, var(--bs-red), var(--bs-purple));
+    background-size: cover;
+}
